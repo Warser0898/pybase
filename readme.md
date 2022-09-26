@@ -16,4 +16,4 @@ operate the database. Databases are stored in the folder database. The db_stat i
 are responsible for keeping an account of exsisting databeses. To ensure that the database work
 properly, do not modify it if you don't know what you are doing.
 
-Pybase also offers an interactive interface (main.py)
+Pybase also offers an interactive interface (main.py).
