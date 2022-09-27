@@ -100,6 +100,10 @@ class ManageDb:
             ManageDb.delete_entry(target_position, "db_stat")
 
         os.remove("database/%s" % db_name)
+        
+        with open("database/db_stat", "a") as f:
+            f.write("none\n")
+         
 
 
 
