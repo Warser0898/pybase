@@ -6,7 +6,7 @@ pybase是一款基于python的简易数据库，具备创建新数表，增添�
 
 本数据库还提供了交互式操作界面（main.py）。
 
-在测试中，插入10000，50000,100000条数据时，mysql分别耗时17.32，89.63，175.16秒，
+在测试中，插入10000，50000, 100000条数据时，mysql分别耗时17.32，89.63，175.16秒，
 而pybase仅耗时3.32，14.61，29.68秒。
 
 Pybase is a simple database based on python. It is able to create new databases, add/remove/
