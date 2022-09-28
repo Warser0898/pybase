@@ -18,8 +18,8 @@ properly, do not modify it if you don't know what you are doing.
 
 Pybase also offers an interactive interface (main.py).
 
-相较mysql，pybase拥有更高的数据插入速度。插入10000，50000,100000条数据时，mysql分别耗时17.32，89.63，175.16秒，
+插入10000，50000,100000条数据时，mysql分别耗时17.32，89.63，175.16秒，
 而pybase仅耗时3.32，14.61，29.68秒。
 
-Compared with mysql, pybase has a higher data insertion speed. In inserting 10 000, 50 000, 100 000 lines, 
+Pybase has higher data insertion speed. In inserting 10 000, 50 000, 100 000 lines, 
 mysql respectively takes 17.32, 89.63, 175.16 seconds, while pybase only takes 3.32, 14.61, 29.68 seconds.
